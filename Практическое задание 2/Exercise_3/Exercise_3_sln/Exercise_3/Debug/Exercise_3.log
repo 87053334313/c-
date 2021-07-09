@@ -1,0 +1,3 @@
+﻿  Exercise_3.cpp
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое задание 2\Exercise_3\Exercise_3_sln\Exercise_3\Exercise_3.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exercise_3.vcxproj -> C:\Users\VictorLi\Desktop\С++ Практики\Практическое задание 2\Exercise_3\Exercise_3_sln\Debug\Exercise_3.exe
