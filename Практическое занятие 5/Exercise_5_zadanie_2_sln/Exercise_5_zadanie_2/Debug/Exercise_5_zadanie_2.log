@@ -1,0 +1,4 @@
+﻿  Exercise_5_zadanie_2.cpp
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 5\Exercise_5_zadanie_2_sln\Exercise_5_zadanie_2\Exercise_5_zadanie_2.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 5\Exercise_5_zadanie_2_sln\Exercise_5_zadanie_2\Exercise_5_zadanie_2.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  Exercise_5_zadanie_2.vcxproj -> C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 5\Exercise_5_zadanie_2_sln\Debug\Exercise_5_zadanie_2.exe
