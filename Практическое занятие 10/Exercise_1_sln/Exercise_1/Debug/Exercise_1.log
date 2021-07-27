@@ -1,0 +1,24 @@
+﻿  Exercise_1.cpp
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(6,1): error C2084: function 'IdCard::IdCard(int)' already has a body
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(5): message : see previous definition of '{ctor}'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(11,1): error C2084: function 'IdCard::IdCard(void)' already has a body
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(10): message : see previous definition of '{ctor}'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(16,1): error C2084: function 'IdCard::IdCard(int,std::string)' already has a body
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(15): message : see previous definition of '{ctor}'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(21,1): error C2084: function 'void IdCard::setNumber(int)' already has a body
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(20): message : see previous definition of 'setNumber'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(26,1): error C2084: function 'int IdCard::getNumber(void)' already has a body
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(25): message : see previous definition of 'getNumber'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(31,1): error C2084: function 'void IdCard::setCategory(std::string)' already has a body
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(30): message : see previous definition of 'setCategory'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(36,1): error C2084: function 'std::string IdCard::getCategory(void)' already has a body
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\IdCard.cpp(35): message : see previous definition of 'getCategory'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\Exercise_1.cpp(31,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\Exercise_1.cpp(45,39): error C2264: 'IdCard::IdCard': error in function definition or declaration; function not called
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\Exercise_1.cpp(46,14): error C2374: 'student02': redefinition; multiple initialization
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\Exercise_1.cpp(27): message : see declaration of 'student02'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\Exercise_1.cpp(46,59): error C2664: 'Student::Student(std::string,std::string,IdCard *)': cannot convert argument 3 from 'IdCard' to 'IdCard *'
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\Exercise_1.cpp(46,55): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое занятие 10\Exercise_1_sln\Exercise_1\student.cpp(11,2): message : see declaration of 'Student::Student'
