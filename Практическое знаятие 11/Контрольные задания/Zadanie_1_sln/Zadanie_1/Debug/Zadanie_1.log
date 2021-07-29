@@ -1,0 +1,4 @@
+﻿  Zadanie_1.cpp
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое знаятие 11\Контрольные задания\Zadanie_1_sln\Zadanie_1\Zadanie_1.cpp(221,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое знаятие 11\Контрольные задания\Zadanie_1_sln\Zadanie_1\Zadanie_1.cpp(253,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Zadanie_1.vcxproj -> C:\Users\VictorLi\Desktop\С++ Практики\Практическое знаятие 11\Контрольные задания\Zadanie_1_sln\Debug\Zadanie_1.exe

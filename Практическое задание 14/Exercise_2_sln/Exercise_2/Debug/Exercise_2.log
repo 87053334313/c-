@@ -1,0 +1,7 @@
+﻿  Exercise_2.cpp
+C:\Users\VictorLi\Desktop\С++ Практики\Практическое задание 14\Exercise_2_sln\Exercise_2\Exercise_2.cpp(81,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Exercise_2.vcxproj -> C:\Users\VictorLi\Desktop\С++ Практики\Практическое задание 14\Exercise_2_sln\Debug\Exercise_2.exe
